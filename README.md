@@ -1,4 +1,4 @@
-# Second Hand Phone price prediction
+# Second Hand Phone price prediction 🚀
 
 ![Second-Hand Phone Price Prediction Screenshot](https://github.com/Mendkelokesh12/Second-Hand_Phone_price_prediction/assets/130207248/659e5914-85f9-40f6-9e14-39be64876b56)
 
